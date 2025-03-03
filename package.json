@@ -1,5 +1,5 @@
 {
-  "name": "fortunate-cow-cli",
+  "name": "cruz1508fortunate-cow-cli",
   "version": "1.0.0",
   "description": "A simple CLI and module that displays a random fortune using cowsay.",
   "type": "module",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/fortunate-cow-cli.git"
+    "url": "https://github.com/RVCC-IDMX/fortunate-cow-cli-cruz1508"
   },
   "author": "Your Name",
   "license": "MIT",
